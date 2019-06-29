@@ -1,1 +1,4 @@
 mover_enemigo()
+
+usar info del archivo que no teniamos, la del codigo personaje.
+personaje.matarEnemigo()
